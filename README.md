@@ -41,7 +41,7 @@ Blynk App → Wi-Fi → NodeMCU ESP8266 → L298N Motor Driver → DC Motors →
 ## 📂 Project Structure
 
 ```text
-ESP8266-Blynk-RC-Car/
-│
-└── RC_Car/
-    └── RC_Car.ino
+blynk-rc-car
+rc-car
+arduinocode.ino
+
