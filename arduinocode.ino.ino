@@ -1,12 +1,12 @@
-#define BLYNK_TEMPLATE_ID "TMPL3mQe7dzAL"
-#define BLYNK_TEMPLATE_NAME "RC car"
-#define BLYNK_AUTH_TOKEN "r8KsPyh6H-Kbi5ShR9hjf09i8tdWg92t"
-#include <ESP8266WiFi.h>
-#include <BlynkSimpleEsp8266.h>
+#define BLYNK_TEMPLATE_ID "id"
+#define BLYNK_TEMPLATE_NAME "name"
+#define BLYNK_AUTH_TOKEN "blynk token"
+#include <espwifi>
+#include <blynk esp >
 
 // ── WiFi credentials ────────────────────────────────────────────────────────
-char ssid[] = "vivo";
-char pass[] = "12345678";
+char ssid[] = "wifi name";
+char pass[] = "wifi password";
 
 // ── Motor direction pins ─────────────────────────────────────────────────────
 #define IN1 D1
