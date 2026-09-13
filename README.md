@@ -1,5 +1,5 @@
 # ESP8266 Blynk RC Car 🚗
-
+![RC Car Project](rccar.jpg)
 A Wi-Fi controlled RC car built using **NodeMCU ESP8266**, **L298N motor driver**, and **4 DC motors**. The car can be controlled remotely through the **Blynk IoT mobile application**.
 
 ## 🚀 Features
