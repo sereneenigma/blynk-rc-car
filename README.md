@@ -4,14 +4,15 @@ A Wi-Fi controlled RC car built using **NodeMCU ESP8266**, **L298N motor driver*
 
 ## 🚀 Features
 
-- Wi-Fi based remote control
-- Blynk mobile app control
-- Forward and backward movement
+- Wi-Fi controlled RC car
+- Control through Blynk mobile application
+- Forward movement
+- Backward movement
 - Left and right movement
 - Stop control
-- 4-wheel drive using 4 DC motors
-- NodeMCU ESP8266 based control system
-
+- 4-wheel drive using four DC motors
+- NodeMCU ESP8266 as the main controller
+- L298N motor driver for motor control
 ## 🛠️ Components Used
 
 - NodeMCU ESP8266
